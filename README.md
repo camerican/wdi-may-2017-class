@@ -2,6 +2,7 @@ Create a webpage about yourself with the following features:
 
 ## 1. using cam.html as a baseline, name your profile page after yourself:
 
+* julia.html
 * benjamin.html
 * logan.html
 * nick.html
@@ -19,6 +20,7 @@ Create a webpage about yourself with the following features:
 
 ## 2. Create a css file named after yourself, also:
 
+* julia.html
 * benjamin.css
 * logan.css
 * nick.css
@@ -63,17 +65,18 @@ body.oliver h2 {
 
 ## 8. For your gallery and portfolio pages, create files that are named as follows: 
 
-* benjamin_gallery.html       benjamin_porfolio.html
-* logan_gallery.html       logan_porfolio.html
-* nick_gallery.html       nick_porfolio.html
-* victor_gallery.html       victor_porfolio.html
-* james_gallery.html       james_porfolio.html
-* tommy_gallery.html       tommy_porfolio.html
-* hans-sebastian_gallery.html       hans-sebastian_porfolio.html
-* neil_gallery.html       neil_porfolio.html
-* katy_gallery.html       katy_porfolio.html
-* asyifa_gallery.html       asyifa_porfolio.html
-* jace_gallery.html       jace_porfolio.html
-* steven_gallery.html       steven_porfolio.html
-* erin_gallery.html       erin_porfolio.html
-* david_gallery.html       david_porfolio.html
+* julia_gallery.html        julia_portfolio.html
+* benjamin_gallery.html       benjamin_portfolio.html
+* logan_gallery.html       logan_portfolio.html
+* nick_gallery.html       nick_portfolio.html
+* victor_gallery.html       victor_portfolio.html
+* james_gallery.html       james_portfolio.html
+* tommy_gallery.html       tommy_portfolio.html
+* hans-sebastian_gallery.html       hans-sebastian_portfolio.html
+* neil_gallery.html       neil_portfolio.html
+* katy_gallery.html       katy_portfolio.html
+* asyifa_gallery.html       asyifa_portfolio.html
+* jace_gallery.html       jace_portfolio.html
+* steven_gallery.html       steven_portfolio.html
+* erin_gallery.html       erin_portfolio.html
+* david_gallery.html       david_portfolio.html
