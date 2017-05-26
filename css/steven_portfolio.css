@@ -1,0 +1,22 @@
+img {
+  width: 300px;
+  float: right;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+body {
+  background-image: url("../img/bg_stars.gif");
+  width: 900px;
+  margin: 20px auto 0;
+  padding: 0 20px;
+}
+
+article {
+  background-color: cornflowerblue;
+}
+
+h1 {
+  background-color: cornflowerblue;
+  width: 300px;
+}

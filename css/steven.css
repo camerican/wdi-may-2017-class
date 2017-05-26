@@ -1,0 +1,48 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  width: 900px;
+  margin: 20px auto 0;
+  padding: 0 20px;
+}
+article > .profile {
+  width:200px;
+  float: left;
+  margin: 0 15px 10px 0;
+}
+header {
+  border-bottom: 2px dashed grey;
+  background-color: cornflowerblue;
+}
+header nav ul {
+  list-style: none;
+  padding: 0;
+}
+header nav li {
+  display: inline-block;
+  padding: 0 10px;
+}
+
+body.steven {
+  background-image: url("../img/bg_stars.gif");
+}
+
+.steven h2 {
+  color: grey;
+}
+
+#profile {
+  margin-right: 10px;
+}
+
+span {
+  font-size: 20px;
+}
+article {
+  background-color: cornflowerblue;
+}
+
+h1 {
+  background-color: cornflowerblue;
+}

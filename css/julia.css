@@ -1,0 +1,16 @@
+body {
+  background-image: url(http://wallpapercave.com/wp/zwCETTo.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: center top;
+  font-family: 'Raleway', sans-serif;
+}
+img {
+  float: left;
+  margin: 15px 15px;
+  height: 400px;
+  width: 300px;
+}
+p {
+  font-size: 35px
+}

@@ -1,0 +1,58 @@
+* {
+  box-sizing: border-box;
+}
+body.katy {
+  width: 900px;
+  margin: 20px auto 0;
+  padding: 0 20px;
+  background-image: url(https://static.vecteezy.com/system/resources/previews/000/101/804/original/vector-pastel-abstract-gemstone-pattern.jpg);
+}
+article > .profile {
+  width:200px;
+  float: left;
+  margin: 0 15px 10px 0;
+}
+header {
+  border-bottom: 2px dashed grey;
+}
+header nav ul {
+  list-style: none;
+  padding: 0;
+}
+header nav li {
+  display: inline-block;
+  padding: 0 10px;
+}
+ul {
+	list-style: none;
+}
+#navbar {
+	color: #aaaad4;
+	font-family: "Courier New", Courier;
+}
+.pic {
+	width: 150px;
+	float: left;
+	margin-right: 40px;
+	margin-bottom: 20px;
+}
+h1, .titleh1 {
+	font-family: "Courier New", Courier;
+	color: #222222;
+}
+h2 {
+	color: #595959;
+	font-family: "Courier New", Courier;
+}
+h3 {
+	color: #737373;
+	font-family: "Courier New", Courier;
+}
+p {
+	color: #333333;
+	font-family: "Courier New", Courier;
+	font-weight: bold;
+}
+span {
+	font-size: 1.2em;
+}

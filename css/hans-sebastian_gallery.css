@@ -1,0 +1,65 @@
+p, h2, header {
+	margin: 20px 100px;	
+}
+li {
+	background-color: rgba(100, 100, 200, 0.3);
+	text-align: center;
+	margin:9px;
+	padding: 3px&;
+	border: 1px solid grey;
+	float: left;
+}
+
+h1 {
+	text-align: center;
+	margin:50px 200px 50px 200px;
+}
+
+h3 {
+	margin-left: 100px;
+	margin-bottom: 40px;
+}
+.homepage {
+	text-align: center;
+	background-color: rgba(50, 100, 200, .3);
+	font-size: 20px;
+	width: 100px;
+	height: 80px;
+	border:2px solid grey;
+	padding: 5px;
+	margin: 20px 20px 60px 100px;
+}
+.gallery {
+	background-color: rgba(50, 100, 200, .3);
+	font-size: 20px;
+	width: 100px;
+	height: 80px;
+	border:2px solid grey;
+	padding: 5px;
+	margin: 20px;
+	}
+.goals {
+text-align: center;
+	background-color: rgba(50, 100, 200, .3);
+	font-size: 20px;
+	width: 100px;
+	height: 80px;
+	border:2px solid grey;
+	padding: 5px;
+	margin: 20px 200px 60px 20px;
+}
+.mojito {
+	float: left;
+	margin: 25px 25px 25px 100px;
+}
+.musicians {
+	margin-left: 100px;
+}
+img {
+	border: 1px solid grey;
+	float:left;
+	margin: 20px;
+}
+style {
+	background-size: 100% 100%;
+}

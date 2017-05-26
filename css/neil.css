@@ -1,0 +1,33 @@
+h1 {
+	text-align: center;
+	color: white;
+	border: 13px solid red;
+}
+html {
+	background-image: url("https://images.alphacoders.com/596/596047.jpg");
+	padding: 10px;
+	margin: 0 auto; 
+	border: 5px solid white;
+	box-sizing: border-box 10px;
+}
+h2 {
+	color: white;
+
+}
+p {
+	color: white;
+}
+span {
+	border: 2px double black;
+}
+p.bio {
+	border: 5px solid white;
+	color white;
+}
+ul.games {
+	color: white;
+	border: 5px solid white;
+	width: 250px; 
+	display: block; 
+	padding: 2em;
+}

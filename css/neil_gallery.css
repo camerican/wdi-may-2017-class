@@ -1,0 +1,15 @@
+div {
+  font-size: 0;
+}
+h1 {
+  text-align: center;
+}
+a {
+  display: inline-block;
+  margin-bottom: 8px;
+  width: 299px;
+  margin-right: 8px;
+}
+a.linktoprof {
+  padding-left: 2em;
+}

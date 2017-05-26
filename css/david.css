@@ -1,0 +1,88 @@
+body.david {
+  width: 900px;
+  margin: auto;
+  background-image: url("../img/bg_stars.gif");
+  background-repeat: repeat;
+  background-attachment: fixed;
+}
+header {
+  border-bottom: 2px dashed grey;
+  background-color: pink;
+}
+header nav ul {
+  list-style: none;
+  padding: 0;
+}
+header nav li {
+  display: inline-block;
+  padding: 0 10px;
+}
+body.david #sidebar {
+  display: block;
+  margin-top: 50px;
+  float: left;
+  width: 250px;
+  padding: 10px;
+  text-align: center;
+  position: fixed;
+  background-color: pink;
+}
+body.david #profile {
+  float: right;
+  width: 550px;
+  margin-top: 50px;
+  margin-left: 40px;
+  margin-bottom: 20px;
+  padding: 10px;
+  border: 1px;
+  border-style: solid;
+  border-color: black;
+  background-color: pink;
+  padding: 10px;
+}
+body.david #first {
+  float: right;
+  width: 550px;
+  margin-top: 50px;
+  margin-left: 40px;
+  margin-bottom: 20px;
+  padding: 10px;
+  border: 1px;
+  border-style: solid;
+  border-color: black;
+  background-color: pink;
+  padding: 10px;
+}
+body.david #second {
+  float: right;
+  clear: right;
+  width: 550px;
+  margin: auto;
+  margin-left: 40px;
+  padding: 10px;
+  border: 1px;
+  border-style: solid;
+  border-color: black;
+  background-color: pink;
+  padding: 10px;
+}
+body.david h3 {
+  font-style: italic;
+  text-align: center;
+}
+body.david h1 {
+  font-family: cursive;
+  font-size: 45px;
+  line-height: 40px;
+}
+body.david .gallery img {
+  float: right;
+  margin-right: 30px;
+}
+body.david .gallery {
+  width: 550px;
+  float: right;
+  text-align: center;
+  color: pink;
+  margin-top: 20px;
+}

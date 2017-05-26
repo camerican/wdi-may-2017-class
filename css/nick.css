@@ -1,0 +1,142 @@
+.nick{
+	font-family: helvetica;
+}
+.nick header{
+	background-color: #ffdd63;
+}
+.dropbtn{
+	width: 200px;
+	display: block;
+	margin: 0;
+	padding: 10px;
+	font-weight: bold;
+	color: #e08d11;
+}
+.dropdown{
+	position: relative;
+	display: inline-block;
+	cursor: pointer;
+}
+.nick header nav li{
+	background-color: #fff;
+	margin: 0px;
+	width: 200px;
+	display: block;
+}
+.nick header nav li:hover{
+	background-color: #ffeaa0;
+}
+.nick nav li a{
+	text-decoration: none;
+	font-weight: bold;
+	color: #e08d11;
+	display: block;
+}
+.dropdown-content{
+	display: none;
+	margin: 0;
+	position: absolute;
+	z-index: 1;
+}
+.dropdown:hover .dropdown-content{
+	display: block;
+}
+.dropdown:hover .dropbtn{
+	background-color: #ffeaa0;
+}
+.nick h1{
+	text-align: center;
+	color: #555;
+}
+.nick p{
+	color: #555;
+}
+p.dropbtn{
+	color: #e08d11;
+}
+.nick h1 a{
+	color: #e08d11;
+	text-decoration: none;
+}
+.nick h1 a:hover{
+	border-bottom: 5px dashed #e08d11;
+}
+.nick article .container{
+	position: relative;
+	text-align: center;
+}
+.nick article .container .profile{
+	width:225px;
+  	float: left;
+  	margin: 0 15px 5px 0;
+}
+.nick article .container h2{
+	text-transform: uppercase;
+	color: #e08d11;
+	padding: 5px 5px 0 5px;
+	position: absolute;
+	text-align: center;
+	top: 175px;
+	left: 5px;
+	background-color: rgba(255,255,255,.8);
+}
+.nick article p{
+	color: #555;
+}
+.nick article ul{
+	color: #555;
+}
+.nick footer{
+	background-color: #ffdd63;
+}
+.nick footer .container{
+	position: relative;
+	display: inline-block;
+	width: 200px;
+	height: 200px;
+	border:	1px solid #e08d11;
+	margin: 10px 41px;
+
+}
+.nick footer .container#about{
+	background-image: url("https://ca.slack-edge.com/T03JJLPSP-U5B1FU4P4-gb1487de5703-512");
+	background-size: 200px;
+}
+.nick footer .container#gallery{
+	background-image: url(../graffiti.jpg);
+	background-size: auto 200px;
+}
+.nick footer .container#portfolio{
+	background-image: url("https://upload.wikimedia.org/wikipedia/commons/3/3d/Code-1076536.jpg");
+	background-size: auto 200px;
+}
+.nick footer .container h2{
+	text-transform: uppercase;
+	color: #e08d11;
+	text-align: center;
+	height: 200px;
+	width: 200px;
+	background-color: rgba(255,255,255,.8);
+	margin: 0;
+	padding: 70px 0;
+	opacity: 0;
+}
+.nick footer .container:hover h2{
+	opacity: 100;
+	transition: .5s;
+}.nick footer .active h2{
+	opacity: 100;
+}
+.gallery{
+	margin: 20px 0;
+	text-align: center;
+}
+.gallery img{
+	width: 250px;
+	display: inline-block;
+	margin: 16px;
+}
+.gosling{
+	text-align: center;
+	margin: 20px;
+}
